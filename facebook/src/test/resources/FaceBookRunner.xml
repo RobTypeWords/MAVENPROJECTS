@@ -1,0 +1,19 @@
+
+<!--   <?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "htpp://Testng.org/testng-1.0.dtd"/>
+        <suite name="Facbook Automation Script" parallel="false">
+
+        <parameter name ="URL" value="https://www.facebook.com/"/>
+
+        <test name="FBHomeTest">
+
+        <classes>
+        <class name="Home.FacebookHome"/>
+        </classes>
+
+        </test>
+
+
+        </suite>               ->
+
+
